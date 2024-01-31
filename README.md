@@ -31,7 +31,7 @@ From the root directory of the project, you can run the following command to run
 npx playwright test
 ```
 
-To see all the test cases as an HTML report run:
+To see all the test cases as an HTML report run: (Depends on install version)
 
 ```bash
 npx playwright show-report
