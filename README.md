@@ -11,7 +11,7 @@ node -v
 npm -v
 npx playwright --version
 ```
-If Playwright is not installed, install it using the follwoing command:
+If Playwright is not installed, install it using the following command:
 
 ```bash
 npm i @playwright/test
